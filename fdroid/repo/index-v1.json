@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1554215331000,
+    "timestamp": 1554215720000,
     "version": 19,
     "name": "Malila Apps",
     "icon": "default-repo-icon.png",
@@ -15,6 +15,25 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "authorName": "Parnikkapore",
+      "categories": [
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "1",
+      "license": "Unknown",
+      "name": "LFM",
+      "added": 1554215415000,
+      "icon": "appinventor.ai_poomklao.librefm_discover_altn.1.png",
+      "packageName": "appinventor.ai_poomklao.librefm_discover_altn",
+      "lastUpdated": 1554215720000,
+      "localized": {
+        "en": {
+          "description": "<p>Discover and stream music from LibreFM!</p>",
+          "summary": "LibreFM Discover"
+        }
+      }
+    },
     {
       "authorName": "Parnikkapore",
       "suggestedVersionCode": "3",
@@ -65,6 +84,48 @@
         ],
         "versionCode": 3,
         "versionName": "0.0.2p1"
+      }
+    ],
+    "appinventor.ai_poomklao.librefm_discover_altn": [
+      {
+        "added": 1554215720000,
+        "apkName": "librefm_discover_altn.apk",
+        "hash": "154aaa0ff965c62e1ec0d70f725af4696d56192052a7177adbedab4d3147c1ee",
+        "hashType": "sha256",
+        "minSdkVersion": "7",
+        "packageName": "appinventor.ai_poomklao.librefm_discover_altn",
+        "sig": "b6c9339c78ef793054ef629e09051b63",
+        "signer": "4606de398a9901cef826ec3a68f9792faa2e01bab1bb58a8797a55e75f5eca36",
+        "size": 3142261,
+        "targetSdkVersion": "26",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "1.0"
       }
     ]
   }
