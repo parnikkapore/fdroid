@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="Malila Apps" pubkey="30820503308202eba00302010202044f607dfa300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3139303430323133343534325a170d3436303831383133343534325a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100f1495468628b994c3202fe48bc6515d5249f5ca61d7f4baa234901efdb4b1ecb595783cfc88aea10ab9ee5219757857de0e68bd5e097f3a094a6c346d651c06fdef702ab986c554b9ddee4e5a03adbd7ed12d899c83b75cac6df7a103c608079627367210c98904d92b7bd1af9cd03fc161af7cfcc356755b0f64f97d45bccae0a604b9a07f1b3eede4ff393a7e02e49102ba2c27d661bae6817fe3218ff3aa5d699a5bf83e1340fa0fcdcca718efb2aa7853260957c283506e3dad9cbf7ca7272abf56facd6edc633feee6bcbe870c82525639b4413238ea8f7d992825910643f9eb2de3e9dcf3a218076ec7a8239598a7e521d14c698d6953b589a8b49a318ec0098820cc72ed436283ca818088d5c3958123f72ae26fa988f644b83eeafe0b23d418437931ad238514dffcde4ecf35f5482e1ce3aa40b87a4b2f7bb8ccc8a26f3fcaa1407c77819a8bb1d4dade1baca75e11eb9d66f3a8a1cb36ec8ad77acac518b7f5ad67a5006a1c38b9bf4963223a9084e581286dba82c88a548b162c70c62eb5c24c2ed34137e601a3ec201395cc770a1b08625a07a33e96ea653d36dc627e6944f642fabfea0b30b3bbde4c67d47d70f6ce7dfd3b5c7ded8a91bb18f393afeb7241feced09842a93a86e8ff116e0d845e809dbbb0e159700c2065ddf474b57b09cd0ac4338e4cc77ed1089d72094db141a44e1d4d276aaccbc00a2b50203010001a321301f301d0603551d0e0416041400325a55ffc7437c2997fc79cf2471e0688bac54300d06092a864886f70d01010b05000382020100716055d175fbd0a0aa5af9b551ccd4f0f1c4adf6f97e05441f07a53b7fad7c374049ccb9ca3b5be24e3f6eda522eca1cbc4c31f5f1df73a46b0074a357c79d5cde485e0fa73063815bb1c5941a768e1e02e036e877802e6562b0ffa4af929ed3e5458fa940bc6341f6b79e3d7c5dc57cbf2d6979bd7515f04c11967a058fff8a7b0ee37d5fd9c3b4e05af0065b1c812b2604a7dce204b7f4d8d2d6fbedb7314dbc8d35ed15565d15de6dfc2920337c27feb79cf9f5b6d77bc3882dd39ffc6303a89852603b9a93e8d1b1959d847bdbba3777b62fc2e8cd77d8fcaab326855b321dd482e81279c0c9eaa6d2d27ae611282f4a0c1b06828cdadfbfc5f49fa2b4db00f88e2f6fcf18ebe038647183c64e64b4c7e0b8d368588bdaf5b564fd715c0bf4ab2d7e8d4ad4d2c1a4a677aa5547b08d347a8c16057cd37e5443eec94787bdbd94910449920f3e0424a9ef617f289fc88c7a80a613151af7994dee905b67d13b478bb6b18f610c35b3810c4046320986b5c3cf972f33aabfa941ca692071b575f6317e90cfa513c0bb5c9720cdd1a0ee8256d2a77c80429ce72cd17320c9da29a2adf510166804c46e1a8ac6cdd5e45b0a546565e1e987065b3294c6885b7233b699f5d68cf8232b1c979c9c7dcb00abeb7cee89e0889cb7bc1523847105945e5b04d7bcee2a28fdacc04aaecf4e9025573657eab904f743db3ceeb279a783" timestamp="1554214707" url="https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo" version="19">
+		<description>Simple, clean apps for everyone. all apps made by Parnikkapore - install from here to reliably get updates!</description>
+		<mirror>https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="appinventor.ai_poomklao.PrimeParty">
+		<id>appinventor.ai_poomklao.PrimeParty</id>
+		<added>2019-04-02</added>
+		<lastupdated>2019-04-02</lastupdated>
+		<name>Prime Party</name>
+		<summary></summary>
+		<icon>appinventor.ai_poomklao.PrimeParty.3.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>3</marketvercode>
+		<package>
+			<version>0.0.2p1</version>
+			<versioncode>3</versioncode>
+			<apkname>PrimeParty.apk</apkname>
+			<hash type="sha256">2aca8472dd9e31ec60ea652d647a14b2931ed48070a62b644062d03fa1008410</hash>
+			<size>4307309</size>
+			<sdkver>7</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2019-04-02</added>
+			<sig>b6c9339c78ef793054ef629e09051b63</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,VIBRATE</permissions>
+		</package>
+	</application>
+</fdroid>

@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "timestamp": 1554214707000,
+    "version": 19,
+    "name": "Malila Apps",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo",
+    "description": "Simple, clean apps for everyone. all apps made by Parnikkapore - install from here to reliably get updates!",
+    "mirrors": [
+      "https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "3",
+      "license": "Unknown",
+      "name": "Prime Party",
+      "added": 1554214672000,
+      "icon": "appinventor.ai_poomklao.PrimeParty.3.png",
+      "packageName": "appinventor.ai_poomklao.PrimeParty",
+      "lastUpdated": 1554214707000
+    }
+  ],
+  "packages": {
+    "appinventor.ai_poomklao.PrimeParty": [
+      {
+        "added": 1554214707000,
+        "apkName": "PrimeParty.apk",
+        "hash": "2aca8472dd9e31ec60ea652d647a14b2931ed48070a62b644062d03fa1008410",
+        "hashType": "sha256",
+        "minSdkVersion": "7",
+        "packageName": "appinventor.ai_poomklao.PrimeParty",
+        "sig": "b6c9339c78ef793054ef629e09051b63",
+        "signer": "4606de398a9901cef826ec3a68f9792faa2e01bab1bb58a8797a55e75f5eca36",
+        "size": 4307309,
+        "targetSdkVersion": "26",
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "0.0.2p1"
+      }
+    ]
+  }
+}
