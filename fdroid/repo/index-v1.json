@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1554214874000,
+    "timestamp": 1554214916000,
     "version": 19,
     "name": "Malila Apps",
     "icon": "default-repo-icon.png",
@@ -16,13 +16,20 @@
   },
   "apps": [
     {
+      "authorName": "Parnikkapore",
       "suggestedVersionCode": "3",
       "license": "Unknown",
       "name": "Prime Party",
       "added": 1554214672000,
       "icon": "appinventor.ai_poomklao.PrimeParty.3.png",
       "packageName": "appinventor.ai_poomklao.PrimeParty",
-      "lastUpdated": 1554214707000
+      "lastUpdated": 1554214707000,
+      "localized": {
+        "en": {
+          "description": "<p>Prime Party is a fun math game app that have you multiply numbers together to create more intricate numbers as you go - improving your math skills at the same time.</p>\r\n<p>&nbsp;</p>\r\n<p>Developed with funding from the Junior Science Talent Program initiative.</p>\r\n<p>&nbsp;</p>\r\n<p>Please drop me a review or an email to help this app improve even further! I still have the source on ai2.</p>",
+          "summary": "Multiply together numbers and improve your math skills!"
+        }
+      }
     }
   ],
   "packages": {
